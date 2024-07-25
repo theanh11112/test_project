@@ -1,0 +1,14 @@
+/Users/mac/Documents/test1/CS001_HelloWorld/bin/Debug/net8.0/CS001_HelloWorld
+/Users/mac/Documents/test1/CS001_HelloWorld/bin/Debug/net8.0/CS001_HelloWorld.deps.json
+/Users/mac/Documents/test1/CS001_HelloWorld/bin/Debug/net8.0/CS001_HelloWorld.runtimeconfig.json
+/Users/mac/Documents/test1/CS001_HelloWorld/bin/Debug/net8.0/CS001_HelloWorld.dll
+/Users/mac/Documents/test1/CS001_HelloWorld/bin/Debug/net8.0/CS001_HelloWorld.pdb
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/CS001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/CS001_HelloWorld.AssemblyInfoInputs.cache
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/CS001_HelloWorld.AssemblyInfo.cs
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/CS001_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/CS001_HelloWorld.dll
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/refint/CS001_HelloWorld.dll
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/CS001_HelloWorld.pdb
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/CS001_HelloWorld.genruntimeconfig.cache
+/Users/mac/Documents/test1/CS001_HelloWorld/obj/Debug/net8.0/ref/CS001_HelloWorld.dll
